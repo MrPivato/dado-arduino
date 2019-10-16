@@ -9,3 +9,7 @@ Simples dado eletrônico que sorteia um número, construído com Arduino.
 ### Posição dos LEDs
 
 ![Leds](imagens/posicao-leds.jpg)  
+
+### Projeto Montado
+
+![Finalizado](imagens/montado.jpg)  
